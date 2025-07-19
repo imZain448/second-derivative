@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "The Second Derivative",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts", "copilot-custom-prompts"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#010011",
+          lightgray: "#001059",
+          gray: "#2a2a4a",
+          darkgray: "#8a8ac8",
+          dark: "#e0e0ff",
+          secondary: "#00ffff",
+          tertiary: "#ff00ff",
+          highlight: "rgba(0, 255, 255, 0.15)",
+          textHighlight: "#ff008088",
         },
       },
     },
