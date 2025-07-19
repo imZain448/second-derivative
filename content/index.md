@@ -31,5 +31,5 @@ Outside of work, I’m drawn toward the elegance of pure mathematics and the vas
 **The Second Derivative** is my space to reflect, question, and share—to explore not just _what_ we learn, but _how_ our thinking evolves.
 
 Zain Ahmad
-email: ahmadzain448@gmail.com
-linkedin: 
+[Gmail](mailto:ahmadzain448@gmail.com)
+[Linkedin](https://www.linkedin.com/in/zain-ahmad-15aa25162/)
