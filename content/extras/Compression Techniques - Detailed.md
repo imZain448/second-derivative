@@ -336,5 +336,3 @@ JPEG compression uses the Discrete Cosine Transform (DCT) to transform image dat
 
 *   Lossy compression.
 *   Can introduce artifacts into the data.
-
-This detailed explanation should provide a comprehensive understanding of each compression technique, including their mathematical formulations and examples.
