@@ -174,8 +174,7 @@ Used in some video codecs, image formats, and specialized scientific application
 
 **Good for**: Images, audio, and video — data where **perceptual quality** matters more than exact recovery.
 
-**How it works**: These techniques transform the data into a different domain (e.g., the frequency domain using the Discrete Cosine Transform). This transformation concentrates the important information into a smaller number of coefficients. Then, they discard the less important (high-frequency) components that are less noticeable to human perception. This is lossy compression, but it achieves high compression ratios while maintaining acceptable quality.
-
+**How it works**: [[The Last bit - Understanding the Limit of Compression#How JPEG Compresses an Image | Already explained in section 1]]
 Lossy, but efficient.
 
 For a detailed explanation of these techniques look at [[Compression Techniques - Detailed | here]]
@@ -269,8 +268,6 @@ But if your data is already pure information — nothing repeated, nothing predi
 
 That’s where we find the true limit of compression.
 Let’s go there next.
-Here’s a complete draft for **Section 5: Compressibility**, keeping it tightly connected to the last section and gradually pushing toward the conceptual boundary of true randomness:
-
 ## 5. Compressibility
 
 We’ve talked about entropy, and we’ve talked about information. But there’s something even more tangible that sits right in between:
