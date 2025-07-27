@@ -351,7 +351,7 @@ Welcome to the realm of **true randomness** — the final limit of compression.
 Let’s explore that in the next section.
 
 ---
-## 7. Information Redefined in Terms of Compression
+## 6. Information Redefined in Terms of Compression
 
 We’ve come a long way — from JPEGs to Shannon, from entropy to structure, and finally to the edge where data resists compression altogether.
 
