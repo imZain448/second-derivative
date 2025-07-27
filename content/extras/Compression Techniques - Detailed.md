@@ -137,7 +137,6 @@ DEFLATE combines the LZ77 tuple representation with Huffman coding. The output o
 *   Can be slower than other compression algorithms.
 
 ---
-Okay, I'll update the Huffman Coding section in [[Compression Techniques - Detailed]] to use a Mermaid diagram for the Huffman tree.
 
 ## 3. Huffman Coding
 
@@ -199,10 +198,6 @@ The compressed string is `10100101011111`, which is 14 bits long, compared to th
 *   Requires knowledge of symbol frequencies.
 *   Can be inefficient for data with uniform symbol frequencies.
 ---
-
-Okay, I'll add a decompression example to the arithmetic coding section in [[Compression Techniques - Detailed]].
-
-Here's the updated section:
 
 ## 4. Arithmetic Coding
 
@@ -296,7 +291,6 @@ Given the encoded message 0.3 and the probabilities A: 0.66, B: 0.34:
 *   More complex than Huffman coding.
 *   Requires arbitrary-precision arithmetic.
 
-This expanded example now includes both the encoding and decoding processes, making it easier to understand how arithmetic coding works in practice, especially with repeated symbols.
 ## 5. Transform-Based Compression (like JPEG and MPEG)
 
 **Description:**
