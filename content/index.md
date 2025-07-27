@@ -16,6 +16,10 @@ Here, we embark on a relentless quest for insight, dissecting complex ideas into
 Whether you're a seasoned professional, an aspiring student, or simply a curious mind with a thirst for discovery, The Second Derivative is designed to illuminate, inspire, and keep you informed about the most exciting developments across these interconnected domains. Join us as we explore the profound curves of understanding, accelerating your insights into the universe and the innovations within it.
 
 ## Weekly Journal
+##### [[The Last bit - Understanding the Limit of Compression]]
+>Have you ever wondered how a single photo taken on your phone takes up just a few hundred kilobytes, while the raw version would be several megabytes? Or how we stream entire movies without downloading gigabytes of data first? The answer lies in compression — a clever way of removing patterns and redundancies from data.
+>
+>But what happens when data can't be compressed anymore? Does it mean it's truly random? Or perfectly encoded? In this article, we explore how compression works, what it reveals about the data it touches, and why there's a fundamental limit to how much you can shrink information. Along the way, we’ll meet JPEGs, Shannon's theorems, forward error correction, and a surprising truth: sometimes, the inability to compress something tells you more than you’d expect.
 
 ## Highlights
 
@@ -29,6 +33,8 @@ Professionally, I work as an AI engineer and researcher in Singapore. My prior w
 Outside of work, I’m drawn toward the elegance of pure mathematics and the vast questions of cosmology. These disciplines, though not directly part of my career, form a significant part of my intellectual life. I study them not for utility, but out of sheer fascination.
 
 **The Second Derivative** is my space to reflect, question, and share—to explore not just _what_ we learn, but _how_ our thinking evolves.
+
+With that being said, Whatever I post on these I try to make sure that every thing is accurate there is no misinformation and make also make to add references for any claims or any information we present here.  But I would like to share that I do use Gen AI tools for research, editing and restructuring these articles. This does not implies that the entire content is AI generated, but AI agents and LLMs assist me to prepare this content. which means that even after all my efforts , there is a very thin chance of misinformation or wrong fact leaking out and for such cases. I really appreciate if you point it out and drop a mail or ping me on LinkedIn. It will be a great help for me to avoid and fix such errors. You can also reach out to share your views or any feedback
 
 Zain Ahmad
 [Gmail](mailto:ahmadzain448@gmail.com)
