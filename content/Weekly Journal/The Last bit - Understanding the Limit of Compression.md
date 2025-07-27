@@ -33,7 +33,6 @@ JPEG doesn’t save every pixel exactly as it is. Instead, it looks for patterns
 3. **Keep the important stuff** — like broad shapes and color transitions.
 4. **Throw away tiny details** that the human eye is unlikely to notice.
 5. **Store what's left** in a compact format using efficient encoding techniques.
-    
 
 That’s why a raw image that takes 6 MB can shrink down to just 300 KB — and still look almost the same to the human eye.
 
@@ -216,14 +215,14 @@ Let’s unpack the difference.
 Entropy is purely statistical. It doesn’t care whether your data makes sense — it only measures how likely each symbol is.
 
 Let’s look at two examples:
-#### 🅰️ A: `"qmwzueo"`
-- Looks random.
-- High entropy.
-- But may just be noise.
-#### 🅱️ B: `"I love you"`
-- Predictable letters.
-- Low entropy.
-- But emotionally meaningful.
+- 🅰️ A: `"qmwzueo"`
+	- Looks random.
+	- High entropy.
+	- But may just be noise.
+-  🅱️ B: `"I love you"`
+	- Predictable letters.
+	- Low entropy.
+	- But emotionally meaningful.
 
 **Conclusion**:
 - **Entropy** tells you how _compressed_ something can be.
@@ -436,3 +435,9 @@ In the world of deep learning and language generation, those same questions come
 
 As we move forward, we’ll build on this foundation — carrying with us the idea that to learn is, in many ways, to compress.
 
+## References
+
+*   Shannon, C. E. (1948). A Mathematical Theory of Communication. *Bell System Technical Journal, 27*(3), 379-423 [link](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
+*   Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience [link](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X).
+*   Sayood, K. (2017). *Introduction to Data Compression* (5th ed.). Morgan Kaufmann [link](https://students.aiu.edu/submissions/profiles/resources/onlineBook/E3B9W5_data%20compression%20computer%20information%20technology.pdf).
+*   Li, M., & Vitányi, P. (2008). *An Introduction to Kolmogorov Complexity and Its Applications* (3rd ed.). Springer [link](https://link.springer.com/book/10.1007/978-0-387-49820-1).
